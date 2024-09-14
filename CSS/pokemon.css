@@ -1,0 +1,36 @@
+*{
+    font-size: 1.2rem;
+}
+
+/* body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pokedex{
+    /* margin: auto; */
+    text-align: center;
+
+    border: 2px solid palevioletred;
+    border-radius: 25px;
+}
+
+.pokedex .infoSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* text-align: left; */
+}
+
+.pokedex input{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
